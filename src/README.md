@@ -1,1 +1,1 @@
-This is a test project for homework 1 in the Git Basics Python UA course
+This is a homework project for the Git Basics Python UA course
